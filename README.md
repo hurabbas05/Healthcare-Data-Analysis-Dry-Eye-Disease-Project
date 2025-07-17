@@ -39,4 +39,24 @@ Data was visualized through:
 ---
 
 ## 📁 Project Structure
+Capstone-Dry-Eye-Disease-Project/
+│
+├── Dataset (from Kaggle)
+├── Final Presentation (PDF)
+└── README.md
+
+---
+
+## 🧠 Outcome
+
+This project bridges the gap between **clinical knowledge and data analytics**.  
+It highlights how preventive diagnostics can benefit from data-driven symptom tracking.
+
+---
+
+## 🔗 Project Author
+
+**Syed Hur Abbas Naqvi**  
+📧 syedhur572@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/hurabbas05)
 
