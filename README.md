@@ -1,62 +1,71 @@
-# 🧬 Capstone Dry Eye Disease Project
-
-This healthcare-focused data analysis project explores the behavioral and lifestyle factors contributing to **Dry Eye Disease (DED)** using patient data.
-
----
-
-## 📌 Objective
-
-To identify and visualize key triggers of DED — including sleep patterns, stress levels, physical activity, and symptoms — to empower early prevention and diagnosis strategies.
+<h1 align="center">🧬 Capstone Project: Dry Eye Disease (DED)</h1>
+<p align="center">🔎 Lifestyle-Driven Risk Insights | 🧠 Clinical Data Visualization | 💡 Preventive Care Strategies</p>
 
 ---
 
-## 🛠 Tools Used
+## 🧠 Overview
 
-- **MySQL** — for structured query of clinical data  
-- **Microsoft Excel** — for organizing, grouping, and pivoting metrics  
-- **PowerPoint** — for final visual storytelling
+This healthcare-focused data analysis project explores the behavioral and lifestyle factors contributing to **Dry Eye Disease (DED)** using patient data.By analyzing patient-level data, we identified key risk indicators and visualized trends to support early diagnosis and preventive care.
 
 ---
 
-## 🔍 Key Insights
+## 🎯 Objective
 
-- **18–30 year-olds** showed the highest DED occurrence  
-- **Females** were slightly more affected than males  
-- **Sleep disorders and poor quality sleep** were strong DED indicators  
-- **High stress levels** and **low physical activity** correlated with increased risk  
-- Common symptoms: Redness, Itchiness, Eye strain  
+To uncover high-impact risk factors such as sleep habits, stress levels, screen time, and physical activity — helping healthcare professionals and patients recognize triggers before clinical symptoms intensify.
 
 ---
 
-## 📊 Visual Summary
+## 🧰 Tools & Technologies Used
 
-Data was visualized through:
-- Bar charts by age group, gender, and symptom clusters  
-- Comparisons of sleep quality vs DED presence  
-- Physical activity vs symptom severity  
-- Stress level segmentation  
+- **📊 Microsoft Excel** — for data cleaning, grouping, and pivot-based analysis  
+- **🧮 MySQL** — for structured querying of clinical records  
+- **📈 PowerPoint** — to present data narratives and treatment guidelines  
 
 ---
 
-## 📁 Project Structure
-Capstone-Dry-Eye-Disease-Project/
-│
-├── Dataset (from Kaggle)
-├── Final Presentation (PDF)
-└── README.md
+## 🔍 Key Findings
+
+- 👩‍⚕️ **Females** showed a slightly higher prevalence of DED than males  
+- 💤 **Poor sleep quality**, **short sleep duration**, and **sleep disorders** were major contributing factors  
+- 😫 **High stress levels** were strongly correlated with increased DED symptoms  
+- 🛋️ **Low physical activity** was also linked with more severe eye discomfort  
+- 👁️ Commonly reported symptoms: **Redness**, **Dryness**, **Itchiness**, **Eye Strain**
 
 ---
 
-## 🧠 Outcome
+## 🧑‍⚕️ Treatment Recommendations
 
-This project bridges the gap between **clinical knowledge and data analytics**.  
-It highlights how preventive diagnostics can benefit from data-driven symptom tracking.
+To minimize DED risk and improve ocular comfort:
+- 🔁 Follow the **20-20-20 Rule** (every 20 minutes, look 20 feet away for 20 seconds)  
+- 👁️ Blink regularly, especially during screen time  
+- 🖥️ Adjust screen brightness and ergonomic setup  
+- 💧 Use lubricating eye drops (e.g., **Systane**) if advised  
+- 🛏️ Maintain consistent sleep patterns and schedule regular eye exams  
 
 ---
 
-## 🔗 Project Author
+## 📈 Visualized Insights
+
+- Age & Gender prevalence charts  
+- Sleep quality vs. DED impact maps  
+- Stress segmentation and symptom clustering  
+- Activity level comparisons with symptom severity  
+
+---
+
+## 💡 Outcome
+
+This project showcases the potential of **data analytics in clinical decision-making**, offering:
+- Early warning indicators for Dry Eye Disease  
+- Data-driven recommendations to reduce symptom severity  
+- Strong alignment with **preventive optometric care**
+
+---
+
+## 👨‍💻 Author
 
 **Syed Hur Abbas Naqvi**  
-📧 syedhur572@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/hurabbas05)
+📧 [syedhur572@gmail.com](mailto:syedhur572@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hurabbas05)
 
+---
